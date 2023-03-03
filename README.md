@@ -32,6 +32,9 @@ npm i react react-dom
 ```
 
 ### :octocat: Example prewview of website:
+![Screenshot 2023-03-03 155816](https://user-images.githubusercontent.com/39629707/222697171-b61683bd-3906-4a07-aae4-b133e0322e73.png)
+
+
 
 <hr />
 <br />
