@@ -14,7 +14,7 @@ This is a simple website made using,
 1. <b>`react.js`</b> 
 2. <b>`CSS`</b>
 3. <b>`HTML`</b> Module
-4. 2. <b>`JSX`</b>
+4. <b>`JSX`</b>
 
 
 ## :octocat: Cloning this repo(Terminal Version):
