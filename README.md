@@ -1,7 +1,7 @@
 # 
 # :octocat: Greetings Website Using `React`
 
-The Website allows user to select any city and get the temperature, weather and an icon indicating the current weather back.
+This website will greet you as per the current time of day! The website is made using react.
 
 # Note from Owner
 - [x] <b>I have not worked much on `css` and `html` for simplicity.</b>
