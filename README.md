@@ -20,7 +20,7 @@ This is a simple website made using,
 ## :octocat: Cloning this repo(Terminal Version):
 - [x] Run the following command:
 ```bash 
-git clone 'https://github.com/yashdoshi12/Live_Weather_Website.git' 
+git clone 'https://github.com/yashdoshi12/Greetings_Using_React.git' 
 ```
 - [x] `cd` to the cloned folder:
 ```bash 
